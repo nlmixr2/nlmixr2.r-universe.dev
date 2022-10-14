@@ -1,0 +1,86 @@
+[
+  {
+    "package": "nlmixr2targets ",
+    "url": "https://github.com/nlmixr2/nlmixr2targets "
+  },
+  {
+    "package": "nlmixr2data",
+    "url": "https://github.com/nlmixr2/nlmixr2data"
+  },
+  {
+    "package": "PreciseSums",
+    "url": "https://github.com/nlmixr2/PreciseSums"
+  },
+  {
+    "package": "nlmixr2rpt ",
+    "url": "https://github.com/nlmixr2/nlmixr2rpt "
+  },
+  {
+    "package": "nlmixr2lib",
+    "url": "https://github.com/nlmixr2/nlmixr2lib"
+  },
+  {
+    "package": "dparser",
+    "url": "https://github.com/nlmixr2/dparser-R"
+  },
+  {
+    "package": "nlmixr2data",
+    "url": "https://github.com/nlmixr2/nlmixr2data"
+  },
+  {
+    "package": "lotri",
+    "url": "https://github.com/nlmixr2/lotri"
+  },
+  {
+    "package": "rxode2ll",
+    "url": "https://github.com/nlmixr2/rxode2ll"
+  },
+  {
+    "package": "rxode2parse",
+    "url": "https://github.com/nlmixr2/rxode2parse"
+  },
+  {
+    "package": "rxode2random",
+    "url": "https://github.com/nlmixr2/rxode2random"
+  },
+  {
+    "package": "rxode2et",
+    "url": "https://github.com/nlmixr2/rxode2et"
+  },
+  {
+    "package": "rxode2",
+    "url": "https://github.com/nlmixr2/rxode2"
+  },
+  {
+    "package": "nlmixr2est",
+    "url": "https://github.com/nlmixr2/nlmixr2est"
+  },
+  {
+    "package": "nlmixr2extra",
+    "url": "https://github.com/nlmixr2/nlmixr2extra"
+  },
+  {
+    "package": "nlmixr2plot",
+    "url": "https://github.com/nlmixr2/nlmixr2plot"
+  },
+  {
+    "package": "nlmixr2",
+    "url": "https://github.com/nlmixr2/nlmixr2"
+  },
+  {
+    "package": "xpose.nlmixr2",
+    "url": "https://github.com/nlmixr2/xpose.nlmixr2"
+  },
+  {
+    "package": "nlmixr2targets",
+    "url": "https://github.com/nlmixr2/nlmixr2targets"
+  },
+  {
+    "package": "nlmixr2rpt",
+    "url": "https://github.com/nlmixr2/nlmixr2rpt"
+  },
+  {
+    "package": "babelmixr2",
+    "url": "https://github.com/nlmixr2/babelmixr2"
+  }
+]
