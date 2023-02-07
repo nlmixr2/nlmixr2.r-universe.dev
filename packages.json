@@ -82,5 +82,9 @@
   {
     "package": "babelmixr2",
     "url": "https://github.com/nlmixr2/babelmixr2"
+  },
+  {
+    "package": "nonmem2rx",
+    "url": "https://github.com/nlmixr2/nonmem2rx"
   }
 ]
