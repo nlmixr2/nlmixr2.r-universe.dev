@@ -1,19 +1,11 @@
 [
   {
-    "package": "nlmixr2targets ",
-    "url": "https://github.com/nlmixr2/nlmixr2targets "
-  },
-  {
     "package": "nlmixr2data",
     "url": "https://github.com/nlmixr2/nlmixr2data"
   },
   {
     "package": "PreciseSums",
     "url": "https://github.com/nlmixr2/PreciseSums"
-  },
-  {
-    "package": "nlmixr2rpt ",
-    "url": "https://github.com/nlmixr2/nlmixr2rpt "
   },
   {
     "package": "nlmixr2lib",
