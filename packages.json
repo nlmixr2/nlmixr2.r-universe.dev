@@ -44,6 +44,10 @@
     "url": "https://github.com/nlmixr2/nlmixr2targets"
   },
   {
+    "package": "nonmem2rx",
+    "url": "https://github.com/nlmixr2/nonmem2rx"
+  },
+  {
     "package": "PreciseSums",
     "url": "https://github.com/nlmixr2/PreciseSums"
   },

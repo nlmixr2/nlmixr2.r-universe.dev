@@ -15,7 +15,7 @@ df <- data.frame(
   package = c("babelmixr2", "dparser-R", "lotri", "nlmixr2",
               "nlmixr2data", "nlmixr2est", "nlmixr2extra",
               "nlmixr2lib", "nlmixr2plot", "nlmixr2rpt",
-              "nlmixr2targets", "PreciseSums", "rxode2",
+              "nlmixr2targets", "nonmem2rx", "PreciseSums", "rxode2",
               "rxode2et", "rxode2ll", "rxode2parse",
               "rxode2random", "xpose.nlmixr2"))
 
