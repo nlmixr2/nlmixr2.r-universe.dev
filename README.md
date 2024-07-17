@@ -9,10 +9,10 @@ This generates the R universe json file for the `nlmixr2` domain.
 df <- data.frame(
   package = c("nlmixr2targets ", "nlmixr2data",
               "PreciseSums", "nlmixr2rpt ", "nlmixr2lib",
-              "dparser-R", 
+              "dparser-R",
               "nlmixr2data", "lotri", "rxode2ll",
-              "rxode2parse", "rxode2random",
-              "rxode2et", "rxode2", "nlmixr2est",
+              "rxode2", "nlmixr2est",
+              "nonmem2rx", "monolix2rx",
               "nlmixr2extra", "nlmixr2plot", "nlmixr2",
               "xpose.nlmixr2", "nlmixr2targets", "nlmixr2rpt",
               "babelmixr2"))

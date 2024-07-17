@@ -56,20 +56,8 @@
     "url": "https://github.com/nlmixr2/rxode2"
   },
   {
-    "package": "rxode2et",
-    "url": "https://github.com/nlmixr2/rxode2et"
-  },
-  {
     "package": "rxode2ll",
     "url": "https://github.com/nlmixr2/rxode2ll"
-  },
-  {
-    "package": "rxode2parse",
-    "url": "https://github.com/nlmixr2/rxode2parse"
-  },
-  {
-    "package": "rxode2random",
-    "url": "https://github.com/nlmixr2/rxode2random"
   },
   {
     "package": "xpose.nlmixr2",
