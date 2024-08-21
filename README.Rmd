@@ -10,18 +10,33 @@ output:
 This generates the R universe json file for the `nlmixr2` domain.
 
 ```{r}
-
 df <- data.frame(
-  package = c("babelmixr2", "dparser-R", "lotri", "nlmixr2",
-              "nlmixr2data", "nlmixr2est", "nlmixr2extra",
-              "nlmixr2lib", "nlmixr2plot", "nlmixr2rpt",
-              "nlmixr2targets", "nonmem2rx", "PreciseSums", "rxode2",
-              "rxode2et", "rxode2ll", "rxode2parse",
-              "rxode2random", "xpose.nlmixr2"))
+  package = c(
+    "PreciseSums",
+    "babelmixr2",
+    "dparser-R",
+    "lbfgsb3c",
+    "lotri",
+    "monolixr2rx",
+    "n1qn1c",
+    "nlmixr2",
+    "nlmixr2data",
+    "nlmixr2est",
+    "nlmixr2extra",
+    "nlmixr2lib",
+    "nlmixr2plot",
+    "nlmixr2rpt",
+    "nlmixr2targets",
+    "nonmem2rx",
+    "rxode2",
+    "rxode2ll",
+    "xpose.nlmixr2"
+  ))
 
 df$url <- paste0("https://github.com/nlmixr2/", df$package)
 df$subdir <- NA_character_
 df$package <- gsub("dparser-R", "dparser", df$package)
+df$package <- gsub("n1qn1c", "n1qn1", df$package)
 
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
 ```
