@@ -72,6 +72,10 @@
     "url": "https://github.com/nlmixr2/rxode2ll"
   },
   {
+    "package": "symengine",
+    "url": "https://github.com/symengine/symengine.R"
+  },
+  {
     "package": "xpose.nlmixr2",
     "url": "https://github.com/nlmixr2/xpose.nlmixr2"
   }
