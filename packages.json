@@ -1,5 +1,13 @@
 [
   {
+    "package": "RcppTrust",
+    "url": "https://github.com/nlmixr2/RcppTrust"
+  },
+  {
+    "package": "rxode2lincmt",
+    "url": "https://github.com/nlmixr2/rxode2lincmt"
+  },
+  {
     "package": "PreciseSums",
     "url": "https://github.com/nlmixr2/PreciseSums"
   },
